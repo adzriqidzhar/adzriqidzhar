@@ -2,7 +2,7 @@
 <h3 align="center">Computer Science Student | IoT & AI Enthusiast | Problem Solver</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/Adzriq Azhar"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/adzriq-azhar-9a9813370"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:adzriq2046@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://pinterest.com/adzriq azhar"><img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white" alt="Pinterest"></a>
 </p>
