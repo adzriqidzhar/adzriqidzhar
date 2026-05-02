@@ -48,6 +48,11 @@ I am a Computer Science student with a strong passion for coding, IoT, artificia
   <img src="https://github-readme-stats.shion.dev/api?username=adzriqidzhar&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" />
   <img src="https://streak-stats.demolab.com/?user=adzriqidzhar&theme=dark&hide_border=false" alt="GitHub Streak" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adzriqidzhar&theme=react-dark&hide_border=false" alt="GitHub Activity Graph" />
+</p>
+
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=adzriqidzhar&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
 </p>
